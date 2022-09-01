@@ -1,0 +1,8 @@
+name	EC_1d_label	EC_1d_score	EC_4d_label	EC_4d_score
+bvl:BF3285c1_1877 alcohol dehydrogenase	1	0.9999025	1.1.1.1	0.9993331
+cdk:105091729 NNMT; nicotinamide N-methyltransferase	2	0.99999976	2.1.1.1	0.99999976
+bacu:103011388 CES5A; carboxylesterase 5A	3	0.99999464	3.1.1.1	1.0
+egu:105038446 pyruvate decarboxylase 1	4	1.0	4.1.1.1	1.0
+cpro:CPRO_12240 alr_1; alanine racemase	5	0.9999999	5.1.1.1	0.9999851
+php:PhaeoP97_01130 tyrS; tyrosyl-tRNA synthetase TyrS	6	1.0	6.1.1.1	1.0
+nega_No19956 consecutive_substitution	Not Enzyme	1.0		

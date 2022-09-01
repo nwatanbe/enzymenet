@@ -1,0 +1,626 @@
+Ranking	name	Tanimoto score
+1	mze:101479026 aldehyde dehydrogenase family 3 member B1	0.890716552734375
+2	shr:100920413 ALDH1A3; aldehyde dehydrogenase family 1 member A3 isoform X1	0.8626152276992798
+3	fab:101809399 aldehyde dehydrogenase family 3 member B1-like	0.8545903563499451
+4	tru:100294697 raldh3; retinaldehyde dehydrogenase 3	0.8545147180557251
+5	ptg:102952022 ALDH1A3; aldehyde dehydrogenase 1 family member A3	0.8446150422096252
+6	ssc:100526075 ALDH3A1; aldehyde dehydrogenase, dimeric NADP-preferring	0.8121181726455688
+7	rss:109450498 aldehyde dehydrogenase family 3 member B1-like	0.7946604490280151
+8	mmu:621603 Aldh3b2, AI848594, C130048D07Rik; aldehyde dehydrogenase 3 family, member B2	0.7692723274230957
+9	phd:102331077 ALDH3A1; aldehyde dehydrogenase 3 family member A1	0.7673694491386414
+10	ssck:SPSK_00777 aldehyde dehydrogenase (NAD(P)+)	0.7659703493118286
+11	oor:101290322 ALDH3B1; aldehyde dehydrogenase family 3 member B1 isoform X1	0.762740433216095
+12	plj:VFPFJ_07650 retinal dehydrogenase 2	0.7484548687934875
+13	maw:MAC_04257 aldehyde dehydrogenase ALDH	0.744271993637085
+14	cot:CORT_0D04080 trimethylaminobutyraldehyde dehydrogenase	0.7237523198127747
+15	apla:101798585 aldehyde dehydrogenase family 3 member B2-like isoform X1	0.718480110168457
+16	fcd:110852080 aldehyde dehydrogenase family 3 member B1-like	0.7130595445632935
+17	lth:KLTH0F09680g KLTH0F09680p	0.712445080280304
+18	nhe:NECHADRAFT_70076 hypothetical protein	0.710641086101532
+19	ecan:CWI88_14370 aldehyde dehydrogenase PuuC	0.7054806351661682
+20	slb:AWJ20_1916 ALD5; aldehyde dehydrogenase (NAD(P)(+)) ALD5	0.7007627487182617
+21	aad:TC41_2804 Aldehyde Dehydrogenase	0.6966326236724854
+22	hmc:HYPMC_2755 puuC; Gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase (Gamma-Glu-gamma-aminobutyraldehyde dehydrogenase)	0.6942363977432251
+23	mdx:BTO20_25510 betaine-aldehyde dehydrogenase	0.6880149841308594
+24	pre:PCA10_32560 peaE; phenylacetaldehyde dehydrogenase PeaE	0.6877158284187317
+25	buf:D8682_12385 aldehyde dehydrogenase family protein	0.6857649087905884
+26	ola:101157544 aldehyde dehydrogenase family 3 member B1 isoform X1	0.6826915740966797
+27	pvt:110085672 ALDH3B1; aldehyde dehydrogenase family 3 member B1	0.6785554885864258
+28	bly:A2T55_11065 betaine-aldehyde dehydrogenase	0.6701278686523438
+29	sbh:SBI_01426 aldehyde dehydrogenase	0.6690086126327515
+30	slq:M495_10010 aldehyde dehydrogenase	0.660636305809021
+31	serf:L085_18345 gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase	0.6598132252693176
+32	phs:C2L64_49740 NAD-dependent phenylacetaldehyde dehydrogenase	0.6552281379699707
+33	kpa:KPNJ1_04064 hypothetical protein	0.6526538133621216
+34	meso:BSQ44_09990 betaine-aldehyde dehydrogenase	0.6506108641624451
+35	laz:A8A57_07980 aldehyde dehydrogenase PuuC	0.6436095237731934
+36	msa:Mycsm_05414 NAD-dependent aldehyde dehydrogenase	0.6399679780006409
+37	moi:MOVS_02195 gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase	0.6386579871177673
+38	lmog:BN389_12840 proA; Gamma-glutamyl phosphate reductase	0.6365979909896851
+39	pge:LG71_13285 aldehyde dehydrogenase	0.634280800819397
+40	dlu:A6035_00625 aldehyde dehydrogenase PuuC	0.6335216164588928
+41	rrz:CS378_18270 betaine-aldehyde dehydrogenase	0.6306828260421753
+42	smaf:D781_2043 NAD-dependent aldehyde dehydrogenase	0.6274495720863342
+43	kll:BJF97_11195 aldehyde dehydrogenase PuuC	0.6273025274276733
+44	aex:Astex_1794 Aldehyde Dehydrogenase	0.6255242824554443
+45	kla:KLLA0_D09999g uncharacterized protein	0.6254063844680786
+46	sagu:CDO87_23015 betaine-aldehyde dehydrogenase	0.62462317943573
+47	kphy:AOZ06_35765 aldehyde dehydrogenase	0.6214048266410828
+48	prg:RB151_006080 feaB; Phenylacetaldehyde dehydrogenase	0.6195288896560669
+49	esj:SJ05684_b51370 Aldehyde dehydrogenase	0.6171891689300537
+50	cyn:Cyan7425_4717 Glutamate-5-semialdehyde dehydrogenase	0.6164572238922119
+51	pmur:107293630 aldehyde dehydrogenase family 3 member B2-like	0.6133093237876892
+52	bpsa:BBU_5573 aldehyde dehydrogenase family protein	0.6112610101699829
+53	nni:104020568 aldehyde dehydrogenase family 3 member B1-like	0.6109906435012817
+54	sma:SAVERM_6726 aldC; putative aldehyde dehydrogenase	0.6099503040313721
+55	phs:C2L64_49160 aldehyde dehydrogenase	0.6092185378074646
+56	hsi:BOX17_05715 aldehyde dehydrogenase PuuC	0.607446014881134
+57	cfj:CFIO01_13112 glutamate-5-semialdehyde dehydrogenase	0.6070504784584045
+58	crz:D1345_06020 aldehyde dehydrogenase	0.6035381555557251
+59	smaz:LH19_26305 hypothetical protein	0.6013444662094116
+60	adt:APT56_09925 aldehyde dehydrogenase	0.6006670594215393
+61	pla:Plav_1036 aldehyde dehydrogenase	0.6003343462944031
+62	dpc:A6048_13210 betaine-aldehyde dehydrogenase	0.6002461314201355
+63	svl:Strvi_4514 Aldehyde Dehydrogenase	0.5945795774459839
+64	miu:ABE85_19400 hypothetical protein	0.5944371819496155
+65	ncb:C0V82_18410 betaine-aldehyde dehydrogenase	0.5939423441886902
+66	bph:Bphy_6864 Aldehyde Dehydrogenase	0.5918649435043335
+67	egz:104127453 aldehyde dehydrogenase family 3 member B1-like	0.5843331813812256
+68	phd:102332149 ALDH3B1; aldehyde dehydrogenase 3 family member B1	0.5830926299095154
+69	suam:BOO69_11065 aldehyde dehydrogenase	0.5807890892028809
+70	sya:A6768_11835 betaine-aldehyde dehydrogenase	0.5778161883354187
+71	psw:LK03_16080 aldehyde dehydrogenase	0.5769133567810059
+72	ido:I598_2666 betB; NAD/NADP-dependent betaine aldehyde dehydrogenase	0.5764272809028625
+73	aui:APT62_02405 proA; gamma-glutamyl-phosphate reductase	0.5721158981323242
+74	biu:109554323 ALDH3B1; aldehyde dehydrogenase family 3 member B1 isoform X1	0.571799635887146
+75	vpe:Varpa_3810 Aldehyde Dehydrogenase	0.5717369318008423
+76	laz:A8A57_11440 aldehyde dehydrogenase	0.5687830448150635
+77	ppic:PhaeoP14_00023 puuC; gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase PuuC	0.5664107203483582
+78	xau:Xaut_2725 aldehyde dehydrogenase	0.566138744354248
+79	rpla:A4Z71_00370 aldehyde dehydrogenase PuuC	0.5622124671936035
+80	smaf:D781_1889 NAD-dependent aldehyde dehydrogenase	0.5597012639045715
+81	bbx:BBS798_2477 aldH; aldehyde dehydrogenase	0.5572850108146667
+82	apb:SAR116_1852 gamma-glutamyl phosphate reductase	0.5543695688247681
+83	shr:100932557 aldehyde dehydrogenase family 3 member B1-like	0.5540931224822998
+84	cyt:cce_2383 proA2; gamma-glutamyl phosphate reductase	0.5514432787895203
+85	lvs:LOKVESSMR4R_00429 puuC; aldehyde dehydrogenase PuuC	0.5507044792175293
+86	lua:D4A81_10390 glutamate-5-semialdehyde dehydrogenase	0.5504582524299622
+87	bct:GEM_5541 Aldehyde Dehydrogenase	0.5496448874473572
+88	mets:DK389_27640 betaine-aldehyde dehydrogenase	0.5493597984313965
+89	ypk:y1597 pdxB; erythronate-4-phosphate dehydrogenase	0.5464123487472534
+90	pbi:103048587 aldehyde dehydrogenase family 3 member B1-like	0.5451396107673645
+91	led:BBK82_26260 gamma-glutamyl-phosphate reductase	0.5437359809875488
+92	mmaz:MmTuc01_0840 Gamma-glutamyl phosphate reductase	0.5423934459686279
+93	lmd:METH_21795 aldehyde dehydrogenase	0.5408971905708313
+94	pba:PSEBR_a3610 putative aldehyde dehydrogenase (NAD(+))	0.539462685585022
+95	salh:HMF8227_01955 pdxB; 4-phosphoerythronate dehydrogenase	0.5385963320732117
+96	myi:110453655 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.5367000699043274
+97	ipa:Isop_3560 glutamate-5-semialdehyde dehydrogenase	0.5361585021018982
+98	mby:MSBRM_3052 Gamma-glutamyl phosphate reductase	0.5358051657676697
+99	soc:105200075 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.5351995229721069
+100	pre:PCA10_47270 aldehyde dehydrogenase	0.5335156321525574
+101	pte:PTT_18784 hypothetical protein	0.532383143901825
+102	osg:BST96_04250 hypothetical protein	0.5321497321128845
+103	jan:Jann_3507 aldehyde dehydrogenase	0.5318145155906677
+104	plq:AA042_01555 4-phosphoerythronate dehydrogenase	0.52773517370224
+105	smiz:4412673_00419 proA; Gamma-glutamyl phosphate reductase	0.5271872282028198
+106	nvl:108562958 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.5268250703811646
+107	cho:Chro.70551 COG0014: gamma-glutamyl phosphate reductase	0.5266849398612976
+108	obo:105276012 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.5258008241653442
+109	mpha:105829764 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.5219165682792664
+110	cwo:Cwoe_2672 gamma-glutamyl phosphate reductase	0.5216810703277588
+111	pfp:PFL1_02550 hypothetical protein	0.518477737903595
+112	nvl:108562959 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.5178786516189575
+113	soc:105208007 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.5170447826385498
+114	stsi:A4E84_37285 aldehyde dehydrogenase	0.5137734413146973
+115	amah:DLM_1123 gamma-glutamyl-aminobutyraldehyde dehydrogenase	0.5128851532936096
+116	tig:THII_2803 phosphoglycerate dehydrogenase-like oxidoreductase	0.5126082897186279
+117	rpln:B1209_14550 succinylglutamate-semialdehyde dehydrogenase	0.5124492645263672
+118	eae:EAE_20395 succinylglutamic semialdehyde dehydrogenase	0.511536180973053
+119	rhs:A3Q41_02407 betB; NAD/NADP-dependent betaine aldehyde dehydrogenase	0.511489748954773
+120	psj:PSJM300_11275 erythronate-4-phosphate dehydrogenase	0.5097962021827698
+121	hgl:101724442 Aldh3b2; aldehyde dehydrogenase family 3 member B2	0.5070842504501343
+122	aec:105146449 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.5065274238586426
+123	bpy:Bphyt_4669 Aldehyde Dehydrogenase	0.5063521265983582
+124	are:AL755_03965 aldehyde dehydrogenase	0.5058421492576599
+125	gag:Glaag_0715 succinylglutamic semialdehyde dehydrogenase	0.5048000812530518
+126	ers:K210_07350 glutamate-5-semialdehyde dehydrogenase	0.5027472972869873
+127	pspo:PSPO_a0605 proA; glutamate-5-semialdehyde dehydrogenase	0.5001038908958435
+128	xfm:Xfasm12_0321 Glutamate-5-semialdehyde dehydrogenase	0.4999542236328125
+129	vph:VPUCM_2282 Erythronate-4-phosphate dehydrogenase	0.4998694658279419
+130	kus:B9G99_10280 succinylglutamate-semialdehyde dehydrogenase	0.49901488423347473
+131	epa:110248597 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.498732328414917
+132	oce:GU3_14245 succinylglutamic semialdehyde dehydrogenase	0.49757227301597595
+133	lak:106175951 15-hydroxyprostaglandin dehydrogenase [NAD(+)]	0.49599310755729675
+134	sko:100378679 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.4948067367076874
+135	pmac:106710251 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.4947701394557953
+136	eam:EAMY_2413 pdxB; erythronate-4-phosphate dehyrogenase	0.49397391080856323
+137	aip:107644080 methylecgonone reductase-like	0.49340128898620605
+138	vga:BSQ33_03995 4-phosphoerythronate dehydrogenase	0.49334976077079773
+139	jal:BZG29_27210 succinylglutamate-semialdehyde dehydrogenase	0.4924061596393585
+140	mgo:AFA91_01160 betaine-aldehyde dehydrogenase	0.4921630322933197
+141	hmr:Hipma_0288 Gamma-glutamyl phosphate reductase	0.49197301268577576
+142	spo:SPAC821.11 pro1; putative gamma-glutamyl phosphate reductase Pro1	0.4891398251056671
+143	mhas:MHAS_01896 fabG3; 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase	0.48771464824676514
+144	sdn:Sden_0151 glutamate-5-semialdehyde dehydrogenase	0.48438015580177307
+145	nre:BES08_10010 succinylglutamate-semialdehyde dehydrogenase	0.4839805066585541
+146	acx:Achr_17990 pdxB; Erythronate-4-phosphate dehydrogenase	0.48386818170547485
+147	sko:102802940 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.4822703003883362
+148	obg:Verru16b_03465 proA; Gamma-glutamyl phosphate reductase	0.48100659251213074
+149	aba:Acid345_1268 glutamate-5-semialdehyde dehydrogenase	0.4808102250099182
+150	kpk:A593_14080 altronate oxidoreductase	0.4798804521560669
+151	bmor:101746647 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.4793657064437866
+152	bmor:101742233 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.47921907901763916
+153	xtr:493354 hpgd; hydroxyprostaglandin dehydrogenase 15-(NAD)	0.47894179821014404
+154	stro:STRMOE7_17040 short-chain dehydrogenase	0.4778514802455902
+155	ppz:H045_04245 erythronate-4-phosphate dehydrogenase	0.4759584367275238
+156	apc:HIMB59_00001890 glutamate-5-semialdehyde dehydrogenase	0.4733278751373291
+157	eca:ECA3060 pdxB; erythronate-4-phosphate dehydrogenase	0.4732823073863983
+158	tci:A7K98_13795 4-phosphoerythronate dehydrogenase	0.4730287790298462
+159	sita:101775059 non-functional NADPH-dependent codeinone reductase 2 isoform X1	0.47275272011756897
+160	caf:AL524_10515 4-phosphoerythronate dehydrogenase PdxB	0.47226428985595703
+161	vni:VIBNI_A0800 pdxB; erythronate-4-phosphate dehydrogenase	0.47159066796302795
+162	aqu:100636048 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.4714379608631134
+163	lgi:LOTGIDRAFT_126231 hypothetical protein	0.47033101320266724
+164	myd:102760950 HPGD; hydroxyprostaglandin dehydrogenase 15-(NAD)	0.4702508747577667
+165	plz:S4054249_17105 erythronate-4-phosphate dehydrogenase	0.47014346718788147
+166	dosa:Os04t0447600-01 Os04g0447600; Similar to NADPH-dependent codeinone reductase (EC 1.1.1.247).	0.4699764847755432
+167	pds:CAY62_09785 4-phosphoerythronate dehydrogenase	0.46940508484840393
+168	bly:A2T55_08480 gamma-glutamyl-phosphate reductase	0.4691624045372009
+169	ajn:BVL33_13180 erythronate-4-phosphate dehydrogenase	0.46915358304977417
+170	vta:A2950 astD; succinylglutamic semialdehyde dehydrogenase	0.46881914138793945
+171	gsn:YC6258_05601 NAD-dependent aldehyde dehydrogenase	0.46847230195999146
+172	mars:A8C75_07250 erythronate-4-phosphate dehydrogenase	0.46792513132095337
+173	nhl:Nhal_0471 FAD linked oxidase domain protein	0.4679112136363983
+174	psec:CCOS191_2333 puuC1; Aldehyde dehydrogenase PuuC	0.46762847900390625
+175	slp:Slip_1685 gamma-glutamyl phosphate reductase	0.4669196903705597
+176	pkb:B4V02_14565 altronate oxidoreductase	0.4665330946445465
+177	pdt:Prede_2292 mannitol-1-phosphate/altronate dehydrogenase	0.4660014808177948
+178	bfm:BP422_05700 UDP-N-acetyl-D-glucosamine dehydrogenase	0.46550196409225464
+179	pda:103713121 deoxymugineic acid synthase 1-D-like	0.46544528007507324
+180	hco:LOKO_02657 pdxB; Erythronate-4-phosphate dehydrogenase	0.4653635025024414
+181	gsl:Gasu_21370 glutamate-5-semialdehyde dehydrogenase	0.4627941846847534
+182	pbp:STSP1_01816 pdxB; Erythronate-4-phosphate dehydrogenase	0.4624779224395752
+183	kco:BWI95_21195 4-phosphoerythronate dehydrogenase PdxB	0.4620915949344635
+184	ajn:BVL33_06530 succinylglutamate-semialdehyde dehydrogenase	0.46207332611083984
+185	cbei:LF65_05246 UDP-N-acetyl-D-glucosamine dehydrogenase	0.46170711517333984
+186	cola:DBO93_04460 4-phosphoerythronate dehydrogenase	0.4612542688846588
+187	eca:ECA0646 uxaB1; altronate oxidoreductase	0.4602277874946594
+188	pmar:B0X71_17125 aryl-alcohol dehydrogenase	0.45987361669540405
+189	mfn:Ga0123462_2215 glutamate-5-semialdehyde dehydrogenase	0.45970919728279114
+190	bex:A11Q_1590 hypothetical protein	0.45909056067466736
+191	paq:PAGR_g1355 erythronate-4-phosphate dehydrogenase PdxB	0.45871859788894653
+192	tae:TepiRe1_1705 uxaB; Altronate oxidoreductase	0.45845142006874084
+193	tru:105417439 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.4583975672721863
+194	nre:BES08_22990 geraniol dehydrogenase	0.4577510952949524
+195	spoi:IMCC21906_02192 phosphoglycerate dehydrogenase-like oxidoreductase	0.4576778709888458
+196	zal:AZF00_09700 hypothetical protein	0.4576738476753235
+197	pds:CAY62_13080 succinylglutamate-semialdehyde dehydrogenase	0.45759648084640503
+198	pnl:PNK_1546 astD; succinylglutamic semialdehyde dehydrogenase	0.45506298542022705
+199	sch:Sphch_3068 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase	0.4540991485118866
+200	eclg:EC036_21610 altronate oxidoreductase	0.45371225476264954
+201	eho:A9798_11590 D-lactate dehydrogenase	0.45316430926322937
+202	cae:SMB_G0117 cooS; Carbone-monoxide dehydrogenase, beta chain	0.4525417983531952
+203	cna:AB433_12105 astD; succinylglutamate-semialdehyde dehydrogenase	0.45251020789146423
+204	spav:Spa2297_31880 alcohol dehydrogenase	0.45246365666389465
+205	lak:106172564 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like isoform X1	0.45230817794799805
+206	slm:BIZ42_12295 FAD-binding oxidoreductase	0.4522702395915985
+207	aplc:110979080 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.4520367681980133
+208	mema:MMAB1_2986 cooS; Carbon monoxide dehydrogenase 2	0.4519708752632141
+209	apac:S7S_07500 erythronate-4-phosphate dehydrogenase	0.45165273547172546
+210	bzg:C4H11_09540 4-phosphoerythronate dehydrogenase PdxB	0.45068636536598206
+211	mio:AOA12_04920 betaine-aldehyde dehydrogenase	0.4498034119606018
+212	pmac:106713765 alcohol dehydrogenase 1-like	0.44953104853630066
+213	sxi:SXIM_42060 alcohol dehydrogenase	0.44950199127197266
+214	nvl:108557406 alcohol dehydrogenase 2-like	0.4491448998451233
+215	est:DN752_22215 tagaturonate reductase	0.44796222448349
+216	cqi:110713857 non-functional NADPH-dependent codeinone reductase 2-like	0.44778063893318176
+217	bmet:BMMGA3_07065 UDP-glucose:GDP-mannose dehydrogenase	0.4471830129623413
+218	pcd:C2E16_14715 4-phosphoerythronate dehydrogenase PdxB	0.4468182325363159
+219	dda:Dd703_0486 succinylglutamic semialdehyde dehydrogenase	0.44532325863838196
+220	pub:SAR11_0224 proA; Gamma-glutamyl phosphate reductase	0.4443843960762024
+221	cic:CICLE_v10032093mg hypothetical protein	0.44422653317451477
+222	mett:CIT01_00340 UDP-N-acetyl-D-glucosamine dehydrogenase	0.4442143440246582
+223	pxb:103957867 NAD(P)H-dependent 6'-deoxychalcone synthase-like	0.44406023621559143
+224	ccaj:109802445 NAD(P)H-dependent 6'-deoxychalcone synthase-like	0.4440314769744873
+225	myi:110445614 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.44361013174057007
+226	mgl:MGL_0159 hypothetical protein	0.44360068440437317
+227	tve:TRV_00129 aldehyde dehydrogenase ALDH	0.4430352747440338
+228	esr:ES1_03460 glutamate-5-semialdehyde dehydrogenase	0.44198283553123474
+229	lha:LHA_2190 pdxB; Erythronate-4-phosphate dehydrogenase	0.44168663024902344
+230	sko:100372221 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.4409602880477905
+231	pphr:APZ00_25485 UDP-N-acetyl-D-glucosamine dehydrogenase	0.4408939480781555
+232	spun:BFF78_07995 UDP-N-acetyl-D-glucosamine dehydrogenase	0.4407244622707367
+233	bcel:BcellWH2_02474 pdxB; Erythronate-4-phosphate dehydrogenase	0.4401393234729767
+234	sot:107058339 methylecgonone reductase-like	0.43985944986343384
+235	cphy:B5808_20160 3-alpha-hydroxysteroid dehydrogenase	0.4395529329776764
+236	spoi:IMCC21906_00771 Zn-dependent alcohol dehydrogenase, class III	0.43938708305358887
+237	stek:AXG53_14425 dimethylmenaquinone methyltransferase	0.4393117427825928
+238	paj:PAJ_1026 astD; succinylglutamic semialdehyde dehydrogenase AstD	0.4388233721256256
+239	lyt:DWG18_00715 FAD-binding protein	0.43870973587036133
+240	ehl:EHLA_2243 CO_DH_cata: carbon-monoxide dehydrogenase, catalytic subunit	0.43858107924461365
+241	pale:102895234 ALDH3B1; aldehyde dehydrogenase family 3 member B1 isoform X1	0.4383375942707062
+242	ccaj:109794487 LOW QUALITY PROTEIN: methylecgonone reductase-like	0.43771272897720337
+243	sbi:8086255 non-functional NADPH-dependent codeinone reductase 2	0.437155544757843
+244	sals:SLNWT_1072 UDP-glucose/GDP-mannose dehydrogenase	0.4368430972099304
+245	pvu:PHAVU_007G253700g hypothetical protein	0.4367813169956207
+246	pbu:L21SP3_01718 pdxB; Erythronate-4-phosphate dehydrogenase	0.4358592927455902
+247	svt:SVTN_35940 3-alpha-hydroxysteroid dehydrogenase	0.43573489785194397
+248	bim:105680683 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like isoform X1	0.4353264272212982
+249	mus:103998029 non-functional NADPH-dependent codeinone reductase 2-like	0.43514612317085266
+250	rue:DT065_05285 glutamate-5-semialdehyde dehydrogenase	0.4334433674812317
+251	ccb:Clocel_2251 Mannitol dehydrogenase domain	0.4325546324253082
+252	pmx:PERMA_0106 cooS; carbon-monoxide dehydrogenase, catalytic subunit	0.4322245121002197
+253	lcd:clem_04410 pdxB; Erythronate-4-phosphate dehydrogenase	0.432184636592865
+254	ctyk:CTK_C21760 cooS; carbon monoxide dehydrogenase	0.4321421682834625
+255	cga:Celgi_0772 short-chain dehydrogenase/reductase SDR	0.4311494827270508
+256	llg:44548918_01289 astD; succinylglutamic-5-semialdehyde dehydrogenase	0.4302353262901306
+257	bdi:100831280 deoxymugineic acid synthase 1-A	0.42964428663253784
+258	prn:BW723_03490 altronate oxidoreductase	0.4295668601989746
+259	asx:CDL62_07220 erythronate-4-phosphate dehydrogenase	0.42951780557632446
+260	ppy:PPE_03756 UDP-N-acetyl-D-glucosamine dehydrogenase	0.4283411204814911
+261	pfy:PFICI_07874 oxidoreductase	0.4274792969226837
+262	psts:E05_12090 succinylglutamic semialdehyde dehydrogenase	0.42732492089271545
+263	mft:XA26_32940 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase	0.42711949348449707
+264	mara:D0851_06970 mannitol dehydrogenase family protein	0.4259782135486603
+265	pde:Pden_2928 D-lactate dehydrogenase	0.4258503317832947
+266	azt:TSH58p_01950 UDP-N-acetyl-D-glucosamine dehydrogenase	0.425734281539917
+267	fjo:Fjoh_4259 tagaturonate reductase	0.42521730065345764
+268	mpc:Mar181_0521 N-succinylglutamate 5-semialdehyde dehydrogenase	0.42519935965538025
+269	osa:4335054 probable NAD(P)H-dependent oxidoreductase 1	0.42484205961227417
+270	ndk:I601_0636 fabG3_2; 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase	0.4248339533805847
+271	rbar:AWN76_010960 hypothetical protein	0.42405661940574646
+272	pleo:OHA_1_04258 uxaB; altronate oxidoreductase	0.42398351430892944
+273	pdg:BCM40_00895 oxidoreductase	0.42394164204597473
+274	dfe:Dfer_4128 Mannitol dehydrogenase domain	0.4235505759716034
+275	soe:110782870 non-functional NADPH-dependent codeinone reductase 2-like	0.423505961894989
+276	nvl:108557454 alcohol dehydrogenase-like	0.4233455955982208
+277	mlr:MELLADRAFT_45347 hypothetical protein	0.4232145845890045
+278	scz:ABE83_20055 UDP-N-acetyl-D-glucosamine dehydrogenase	0.42318597435951233
+279	porl:BG023_111480 succinylglutamic semialdehyde dehydrogenase	0.4230424463748932
+280	acu:Atc_2764 Fe-S protein, lactate dehydrogenase SO1521-like protein	0.42244768142700195
+281	rha:RHA1_ro01724 probable aldehyde dehydrogenase (NAD(P)+)	0.42228272557258606
+282	med:MELS_0553 mannitol dehydrogenase domain protein	0.4220227897167206
+283	byl:A4V09_13945 altronate oxidoreductase	0.42131808400154114
+284	psa:PST_1818 pdxB; erythronate-4-phosphate dehydrogenase	0.42126935720443726
+285	pln:Plano_2867 oxidoreductase	0.42118799686431885
+286	ppsy:AOC04_01260 D-mannonate oxidoreductase	0.42115384340286255
+287	mus:103977597 non-functional NADPH-dependent codeinone reductase 2-like	0.4211282730102539
+288	cfm:BJL90_04040 carbon-monoxide dehydrogenase catalytic subunit	0.42085379362106323
+289	sera:Ser39006_004530 astD; succinylglutamate-semialdehyde dehydrogenase	0.4203323721885681
+290	gac:GACE_0127 carbon monoxide dehydrogenase, catalytic subunit (cooS)	0.41992053389549255
+291	seon:BWZ22_10005 altronate oxidoreductase	0.4197896420955658
+292	dcr:108195721 non-functional NADPH-dependent codeinone reductase 2-like	0.4193795919418335
+293	txy:Thexy_2049 Altronate oxidoreductase	0.41900908946990967
+294	vvi:100264447 non-functional NADPH-dependent codeinone reductase 2	0.4188928008079529
+295	prh:LT40_01105 astD; succinylglutamate-semialdehyde dehydrogenase	0.41881275177001953
+296	bamb:BAPNAU_2549 uxaB; tagaturonate reductase	0.4187820255756378
+297	ams:AMIS_21770 putative short-chain dehydrogenase	0.41877517104148865
+298	cpip:CJF12_01225 mannitol dehydrogenase family protein	0.41735726594924927
+299	epr:EPYR_02569 dld; D-lactate dehydrogenase	0.4173394441604614
+300	pstw:DSJ_21165 altronate oxidoreductase	0.41686031222343445
+301	mze:101469124 hpgd; 15-hydroxyprostaglandin dehydrogenase [NAD(+)]	0.41681408882141113
+302	aqd:D1816_09335 tagaturonate reductase	0.41639700531959534
+303	ege:EM595_3033 uxaB; Altronate oxidoreductase	0.41627705097198486
+304	ola:101160831 15-hydroxyprostaglandin dehydrogenase [NAD(+)] isoform X1	0.4160064458847046
+305	mre:K649_01415 nucleotide sugar dehydrogenase	0.4157358705997467
+306	strt:A8713_30880 alcohol dehydrogenase	0.4147757291793823
+307	svl:Strvi_1003 short-chain dehydrogenase/reductase SDR	0.4145972430706024
+308	ini:109160918 methylecgonone reductase-like	0.41439005732536316
+309	chrs:EAG08_06740 tagaturonate reductase	0.4143730700016022
+310	mesc:110604606 non-functional NADPH-dependent codeinone reductase 2-like	0.4143712818622589
+311	mtr:MTR_6g073110 aldo/keto reductase family oxidoreductase	0.4143136441707611
+312	xsa:SB85_10125 alcohol dehydrogenase	0.4134458303451538
+313	scy:SCATT_p16700 hypothetical protein	0.41338247060775757
+314	cann:107847050 non-functional NADPH-dependent codeinone reductase 2-like	0.41337713599205017
+315	act:ACLA_078730 mannitol dehydrogenase, putative	0.4132976233959198
+316	brd:JL11_07575 astD; N-succinylglutamate 5-semialdehyde dehydrogenase	0.41314756870269775
+317	ata:AWN88_18925 D-mannonate oxidoreductase	0.41280442476272583
+318	fgr:FGSG_11482 aldehyde dehydrogenase	0.41233307123184204
+319	pros:CHL67_00350 carbon monoxide dehydrogenase	0.4111543297767639
+320	ead:OV14_a0342 putative UDP-glucose/GDP-mannose dehydrogenase	0.40993013978004456
+321	spht:K426_28100 2O-beta-hydroxysteroid dehydrogenase	0.4093247950077057
+322	sphi:TS85_13605 UDP-N-acetyl-D-glucosamine dehydrogenase	0.4092247486114502
+323	erk:CD351_07305 astD; succinylglutamate-semialdehyde dehydrogenase	0.40879783034324646
+324	aje:HCAG_07464 gamma-glutamyl phosphate reductase	0.40840625762939453
+325	amz:B737_2399 3-alpha(or 20-beta)-hydroxysteroid dehydrogenase	0.40840137004852295
+326	bmor:101746934 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.4083767533302307
+327	aym:YM304_02970 mannitol dehydrogenase	0.4083608090877533
+328	mgi:Mflv_4505 short-chain dehydrogenase/reductase SDR	0.4082191586494446
+329	afs:AFR_11625 putative UDP-glucose/GDP-mannose dehydrogenase	0.40814483165740967
+330	gxy:GLX_11250 oxidoreductase	0.40775787830352783
+331	sgp:SpiGrapes_1979 mannitol-1-phosphate/altronate dehydrogenase	0.4077035188674927
+332	mno:Mnod_3071 D-lactate dehydrogenase membrane binding	0.40758225321769714
+333	chry:CEY12_07395 mannitol dehydrogenase	0.4074985682964325
+334	dcr:108197085 non-functional NADPH-dependent codeinone reductase 2-like	0.40729761123657227
+335	bbw:BDW_05945 udpglucose 6-dehydrogenase	0.40726760029792786
+336	mhi:Mhar_1630 Carbon-monoxide dehydrogenase, catalytic subunit	0.4069437086582184
+337	tca:107397659 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.40689656138420105
+338	bgy:BGLY_0829 UDP-glucose 6-dehydrogenase	0.40627506375312805
+339	mte:CCDC5079_1849 20-beta-hydroxysteroid dehydrogenase fabG3	0.40572136640548706
+340	six:BSY16_5224 nucleotide sugar dehydrogenase family protein	0.4053384065628052
+341	scb:SCAB_52021 putative oxidoreductase	0.40533560514450073
+342	bsa:Bacsa_0708 Altronate oxidoreductase	0.40530088543891907
+343	ppe:PEPE_0182 Zn-dependent alcohol dehydrogenase	0.4050595760345459
+344	rcu:8268143 non-functional NADPH-dependent codeinone reductase 2	0.40500104427337646
+345	kst:KSMBR1_0908 ugd_1; hypothetical protein	0.4043174684047699
+346	spht:K426_23384 aryl-alcohol dehydrogenase XylB	0.4043138325214386
+347	bsy:I653_16455 UDP-N-acetyl-D-mannosaminuronate dehydrogenase	0.403772234916687
+348	bmor:732963 alcohol dehydrogenase	0.4037126302719116
+349	dao:Desac_1966 carbon-monoxide dehydrogenase, catalytic subunit	0.40345361828804016
+350	vpn:A21D_01755 wbpA_3; UDP-N-acetyl-D-glucosamine 6-dehydrogenase	0.4022763967514038
+351	tpro:Ga0080559_TMP2185 tagaturonate reductase	0.40219801664352417
+352	cic:CICLE_v10021130mg hypothetical protein	0.40118589997291565
+353	amt:Amet_0555 Mannitol dehydrogenase, C-terminal domain	0.4006897509098053
+354	metm:MSMTP_1179 Carbon monoxide dehydrogenase CooS subunit	0.40062054991722107
+355	gor:KTR9_0248 short-chain dehydorgenase/reductase	0.4005604386329651
+356	ral:Rumal_2177 Mannitol dehydrogenase domain	0.40020373463630676
+357	mad:HP15_3039 astD; N-succinylglutamate 5-semialdehyde dehydrogenase	0.39989766478538513
+358	palk:PSAKL28_31440 Aryl-alcohol dehydrogenase	0.39989057183265686
+359	brc:BCCGELA001_30950 geraniol dehydrogenase	0.3998182713985443
+360	rbc:BN938_2257 Erythronate-4-phosphate dehydrogenase	0.39962413907051086
+361	efm:M7W_2504 Altronate oxidoreductase	0.39920341968536377
+362	caby:Cabys_2468 UDP-N-acetyl-D-glucosamine dehydrogenase	0.3986096680164337
+363	dsq:DICSQDRAFT_77596 NAD(P)-binding protein	0.39843305945396423
+364	ccro:CMC5_019120 UDP-N-acetyl-D-glucosamine dehydrogenase	0.39841172099113464
+365	gmx:100790074 NAD(P)H-dependent 6'-deoxychalcone synthase	0.3982102870941162
+366	slx:SLAV_25060 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase	0.397930771112442
+367	pat:Patl_3763 Alcohol dehydrogenase, zinc-binding protein	0.39759549498558044
+368	lpz:Lp16_G006 aryl-alcohol dehydrogenase	0.39726391434669495
+369	mro:MROS_2690 UDP-glucose/GDP-mannose dehydrogenase-like protein	0.396801233291626
+370	com:CMT41_13255 erythronate-4-phosphate dehydrogenase	0.3966307044029236
+371	stp:Strop_2631 short-chain dehydrogenase/reductase SDR	0.3964920938014984
+372	bmet:BMMGA3_15115 wbpA; UDP-N-acetyl-D-glucosamine 6-dehydrogenase	0.39594563841819763
+373	mpy:Mpsy_0694 carbon monoxide dehydrogenase	0.39591988921165466
+374	six:BSY16_3157 mannitol dehydrogenase Rossmann domain protein	0.39586153626441956
+375	aae:aq_1769 dld1; D-lactate dehydrogenase	0.39562293887138367
+376	toc:Toce_0800 carbon-monoxide dehydrogenase, catalytic subunit	0.39510804414749146
+377	ege:EM595_1637 astD; succinylglutamic semialdehyde dehydrogenase	0.39477917551994324
+378	ypac:CEW88_22185 cyclopentanol dehydrogenase	0.39457592368125916
+379	rst:ATY39_12235 aryl-alcohol dehydrogenase	0.3940061628818512
+380	arth:C3B78_08890 3-alpha-hydroxysteroid dehydrogenase	0.3935720920562744
+381	cace:CACET_c17700 ugd; UDP-glucose 6-dehydrogenase Ugd	0.39332789182662964
+382	mae:Maeo_0475 CO dehydrogenase/acetyl-CoA synthase complex, epsilon subunit	0.39308950304985046
+383	fbt:D770_01055 altronate oxidoreductase	0.3930617868900299
+384	dmt:DESME_14200 UDP-N-acetyl-D-glucosamine dehydrogenase	0.3929207921028137
+385	dol:Dole_1818 UDP-glucose/GDP-mannose dehydrogenase	0.392717570066452
+386	sko:102803162 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.3923397660255432
+387	pma:Pro_1755 dld; D-lactate dehydrogenase, NADH independent	0.3920656442642212
+388	masw:AM586_09355 NAD(P)-dependent oxidoreductase	0.3916042149066925
+389	rhs:A3Q41_02406 xylB_2; Aryl-alcohol dehydrogenase	0.3909013867378235
+390	ats:109784549 LOC109784549; probable NAD(P)H-dependent oxidoreductase 1	0.39075425267219543
+391	dzi:111317659 non-functional NADPH-dependent codeinone reductase 2-like	0.3902788758277893
+392	miz:BAB75_26335 3-alpha-hydroxysteroid dehydrogenase	0.3901054263114929
+393	scz:ABE83_07235 aryl-alcohol dehydrogenase	0.38950783014297485
+394	pfv:Psefu_3131 N-succinylglutamate 5-semialdehyde dehydrogenase	0.389322429895401
+395	hpaz:K756_11235 NADP-dependent dehydrogenase	0.38871800899505615
+396	lsh:CAB17_13570 astD; succinylglutamate-semialdehyde dehydrogenase	0.3885439932346344
+397	zma:100283694 NAD(P)H-dependent oxidoreductase	0.38825520873069763
+398	ccl:Clocl_0520 carbon-monoxide dehydrogenase, catalytic subunit	0.38729795813560486
+399	bly:A2T55_13135 mannitol dehydrogenase	0.38680389523506165
+400	mmar:MODMU_2388 Aryl-alcohol dehydrogenase	0.38677290081977844
+401	spkc:KC8_14445 short-chain dehydrogenase/reductase SDR	0.3866780400276184
+402	ido:I598_0831 fabG3; 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase	0.3865578770637512
+403	nsr:NS506_06833 3(or 17)-beta-hydroxysteroid dehydrogenase	0.3862917721271515
+404	sft:NCTC1_01597 astD; succinylglutamic semialdehyde dehydrogenase,N-succinylglutamate 5-semialdehyde dehydrogenase,succinylglutamic semialdehyde dehydrogenase,Delta 1-pyrroline-5-carboxylate dehydrogenase,succinylglutamic semialdehyde dehydrogenase,Aldehyde dehydrogenase family	0.38594093918800354
+405	leg:ABH19_03770 UDP-N-acetyl-D-glucosamine dehydrogenase	0.38588598370552063
+406	psd:DSC_00020 D-lactate dehydrogenase	0.3855731785297394
+407	bgo:BM43_2491 astD; succinylglutamic semialdehyde dehydrogenase	0.385437935590744
+408	axl:AXY_05670 oxidoreductase	0.38534653186798096
+409	spmi:K663_16040 2O-beta-hydroxysteroid dehydrogenase	0.3849007785320282
+410	mls:MSLAZ_0649 CO dehydrogenase/acetyl-CoA synthase subunit alpha, CO dehydrogenase subcomplex	0.3845759332180023
+411	scl:sce8093 putative oxidoreductase	0.3843151032924652
+412	lby:Lbys_1620 Mannitol dehydrogenase domain	0.3838745355606079
+413	tpz:Tph_c15180 acsB; carbon monoxide dehydrogenase/acetyl-CoA synthase subunit beta	0.38377365469932556
+414	egu:105053147 non-functional NADPH-dependent codeinone reductase 2-like	0.3831119239330292
+415	ssy:SLG_09920 astD; N-succinylglutamate 5-semialdehyde dehydrogenase	0.381730854511261
+416	run:DR864_19840 altronate oxidoreductase	0.38128170371055603
+417	lcv:FBA2_02930 aryl-alcohol dehydrogenase	0.38083183765411377
+418	azl:AZL_f01240 nucleotide-sugar dehydrogenase	0.38082724809646606
+419	aym:YM304_24510 proA; gamma-glutamyl phosphate reductase	0.38058343529701233
+420	sall:SAZ_02195 alcohol dehydrogenase	0.38007622957229614
+421	palh:B1H58_18420 succinylglutamate-semialdehyde dehydrogenase	0.37999433279037476
+422	ndi:NDAI_0K01000 NDAI0K01000; hypothetical protein	0.379924476146698
+423	dau:Daud_0870 carbon-monoxide dehydrogenase, catalytic subunit	0.37966495752334595
+424	amac:MASE_12275 D-lactate dehydrogenase	0.37816402316093445
+425	ccaj:109812121 methylecgonone reductase-like	0.3776471018791199
+426	mmet:MCMEM_0990 CO dehydrogenase/acetyl-CoA synthase subunit alpha, CO dehydrogenase subcomplex	0.3775307536125183
+427	mpl:Mpal_0842 carbon-monoxide dehydrogenase, catalytic subunit	0.37752628326416016
+428	mphl:MPHLCCUG_02464 fabG3_1; 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase	0.37731096148490906
+429	rua:D1823_00320 D-lactate dehydrogenase	0.37678655982017517
+430	ncs:NCAS_0C00980 NCAS0C00980; hypothetical protein	0.376677542924881
+431	pbar:105424587 LOW QUALITY PROTEIN: 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.3766668736934662
+432	elm:ELI_3603 carbon-monoxide dehydrogenase	0.37658801674842834
+433	kaf:KAFR_0B03360 KAFR0B03360; hypothetical protein	0.37601369619369507
+434	rhb:NY08_3965 3-oxoacyl-[acyl-carrier protein] reductase	0.37587806582450867
+435	aar:Acear_0983 carbon-monoxide dehydrogenase, catalytic subunit	0.374896377325058
+436	nmu:Nmul_A1473 Zinc-containing alcohol dehydrogenase superfamily	0.3748794198036194
+437	zmc:A265_01681 por; Polyol:NADP oxidoreductase	0.3747221529483795
+438	aper:A0U91_03055 mannitol dehydrogenase	0.374661386013031
+439	asj:AsACE_CH00919 dld; D-lactate dehydrogenase	0.3744455575942993
+440	eae:EAE_20245 zinc-containing alcohol dehydrogenase superfamily protein	0.37405166029930115
+441	pfn:HZ99_03900 mannitol dehydrogenase	0.37377655506134033
+442	gry:D7I44_07220 mannitol dehydrogenase family protein	0.3734924793243408
+443	pbas:SMSP2_00486 pdxB; Erythronate-4-phosphate dehydrogenase	0.3719492554664612
+444	paeh:H70357_25545 altronate oxidoreductase	0.3704630136489868
+445	gom:D7316_05435 xylB_4; Aryl-alcohol dehydrogenase	0.37001508474349976
+446	cic:CICLE_v10006052mg hypothetical protein	0.369650274515152
+447	rhp:LPB142_03215 mannitol dehydrogenase	0.3691878616809845
+448	tci:A7K98_08965 D-lactate dehydrogenase	0.3688480854034424
+449	ara:Arad_4011 mtlK; mannitol 2-dehydrogenase protein	0.3687501847743988
+450	tmn:UCRPA7_542 putative oxidoreductase protein	0.3686941862106323
+451	pre:PCA10_19780 putative UDP-glucose/GDP-mannose dehydrogenase	0.36864620447158813
+452	cnt:JT31_05830 lactate dehydrogenase	0.36828377842903137
+453	pret:103460018 15-hydroxyprostaglandin dehydrogenase [NAD(+)]-like	0.3682280480861664
+454	dol:Dole_1461 carbon-monoxide dehydrogenase, catalytic subunit	0.36746296286582947
+455	buj:BurJV3_2413 D-lactate dehydrogenase	0.36691004037857056
+456	mph:MLP_35300 putative mannitol dehydrogenase	0.3665768504142761
+457	ani:AN6979.2 hypothetical protein	0.3662756681442261
+458	lvs:LOKVESSMR4R_00448 udh; uronate dehydrogenase	0.36591506004333496
+459	tjr:TherJR_1157 carbon-monoxide dehydrogenase, catalytic subunit	0.36494743824005127
+460	pgu:PGUG_02766 hypothetical protein	0.36482757329940796
+461	lpar:FAM21731_01518 Aryl-alcohol dehydrogenase	0.36459288001060486
+462	ccb:Clocel_1516 carbon-monoxide dehydrogenase, catalytic subunit	0.36423006653785706
+463	phm:PSMK_08710 NAD-dependent epimerase/dehydratase family protein	0.3639492392539978
+464	mboi:DQF64_00645 hypothetical protein	0.3637610971927643
+465	amag:I533_12450 D-lactate dehydrogenase	0.36247676610946655
+466	zal:AZF00_17880 hypothetical protein	0.36207646131515503
+467	mls:MSLAZ_0996 acetyl-CoA decarbonylase/synthase complex subunit alpha	0.36194828152656555
+468	cnc:CNE_BB1p08740 xylB1; aryl-alcohol dehydrogenase XylB	0.36079147458076477
+469	bue:BRPE67_FCDS00020 NAD dependent epimerase/dehydratase family protein precursor	0.36077681183815
+470	psco:LY89DRAFT_692212 NAD(P)-binding protein	0.3605950176715851
+471	rfa:A3L23_01445 mtlK_1; Mannitol 2-dehydrogenase	0.3601537048816681
+472	lel:LELG_03576 5-amino-6-(5-phosphoribosylamino)uracil reductase	0.35943156480789185
+473	amim:MIM_c34550 putative NAD-dependent epimerase/dehydratase	0.35932305455207825
+474	sro:Sros_1990 short-chain dehydrogenase/reductase SDR	0.35862645506858826
+475	cva:CVAR_1686 mtlD; mannitol 2-dehydrogenase	0.35854947566986084
+476	deq:XM25_04200 Multiple polyol-specific dehydrogenase	0.3585376739501953
+477	acp:A2cp1_1198 short-chain dehydrogenase/reductase SDR	0.3578379154205322
+478	maad:AZF01_19955 mannitol dehydrogenase	0.35768741369247437
+479	ccx:COCOR_05351 wecC; lipopolysaccharide biosynthesis protein	0.3575124144554138
+480	tpty:NCTC11468_01823 dld; D-lactate dehydrogenase	0.35719034075737
+481	rsq:Rsph17025_1685 Mannitol dehydrogenase, C-terminal domain	0.35699814558029175
+482	ddr:Deide_3p02120 putative mannitol 2-dehydrogenase	0.356801301240921
+483	ave:Arcve_0930 2,5-diamino-6-hydroxy-4-(5-phosphoribosylamino) pyrimidine1-reductase	0.35640284419059753
+484	zal:AZF00_04005 geraniol dehydrogenase	0.35577666759490967
+485	tki:TKV_c20100 acsA; carbon-monoxide dehydrogenase catalytic subunit acsA	0.3549988865852356
+486	serj:SGUI_0027 Multiple polyol-specific dehydrogenase	0.35488104820251465
+487	nei:BG910_00615 D-lactate dehydrogenase	0.3545510470867157
+488	metm:MSMTP_0527 5-amino-6-(5-phosphoribosylamino)uracil reductase	0.35434913635253906
+489	seon:BWZ22_00640 mannitol dehydrogenase	0.3541853129863739
+490	cput:CONPUDRAFT_79879 NAD(P)-binding protein	0.3541150987148285
+491	kmx:KLMA_40225 RIB7; 5-amino-6-(5-phosphoribosylamino)uracil reductase	0.3537752032279968
+492	cgt:cgR_2372 hypothetical protein	0.35347887873649597
+493	bfu:BCIN_12g05190 hypothetical protein	0.35331082344055176
+494	pis:Pisl_0385 2,5-diamino-6-(5-phosphoribosylamino)pyrimidin-4(3H)-one reductase	0.352731317281723
+495	gan:UMN179_01986 D-lactate dehydrogenase	0.35191911458969116
+496	psos:POS17_3972 short-chain dehydrogenase	0.35143500566482544
+497	drt:Dret_1234 carbon-monoxide dehydrogenase, catalytic subunit	0.35142549872398376
+498	enf:AKI40_2725 N-succinylglutamate 5-semialdehyde dehydrogenase	0.3508013188838959
+499	pfy:PFICI_03322 Mannitol 2-dehydrogenase	0.35056471824645996
+500	chy:CHY_0736 cooSIV; carbon-monoxide dehydrogenase, catalytic subunit	0.34985485672950745
+501	strc:AA958_24355 3-alpha-hydroxysteroid dehydrogenase	0.3497888147830963
+502	pko:PKOR_03265 aryl-alcohol dehydrogenase	0.34912189841270447
+503	dda:Dd703_1893 short-chain dehydrogenase/reductase SDR	0.34838640689849854
+504	bmw:BMNI_II1056 D-lactate dehydrogenase	0.3475514352321625
+505	ssck:SPSK_06521 hypothetical protein	0.34738674759864807
+506	otm:OSB_27000 NAD dependent epimerase/dehydratase family protein	0.34732192754745483
+507	mrm:A7982_11645 benzyl alcohol dehydrogenase	0.347023069858551
+508	lbn:LBUCD034_0661 short chain dehydrogenase	0.34696492552757263
+509	ctet:BN906_02466 UDP-glucose 6-dehydrogenase	0.34617698192596436
+510	abat:CFX1CAM_0216 wbpA; UDP-N-acetyl-D-glucosamine 6-dehydrogenase	0.345260351896286
+511	syx:SynWH7803_1325 proA; Gamma-glutamyl phosphate reductase	0.34524914622306824
+512	csy:CENSYa_1759 riboflavin specific deaminase	0.3435797691345215
+513	rbn:RBXJA2T_00325 bifunctional deaminase-reductase domain protein	0.34299713373184204
+514	mav:MAV_4838 mannitol 2-dehydrogenase	0.34268924593925476
+515	bhan:CGC63_07980 cooS; carbon-monoxide dehydrogenase catalytic subunit	0.3422129154205322
+516	smp:SMAC_03789 uncharacterized protein	0.34220436215400696
+517	strm:M444_15505 short-chain dehydrogenase	0.3421543538570404
+518	gap:GAPWK_0466 putative oxidoreductase	0.34196823835372925
+519	pcp:JM49_15720 mannitol dehydrogenase	0.340674489736557
+520	oeu:111379906 methylecgonone reductase-like	0.3401930630207062
+521	cpau:EHF44_16030 ydfG; bifunctional NADP-dependent 3-hydroxy acid dehydrogenase/3-hydroxypropionate dehydrogenase YdfG	0.3400009870529175
+522	ani:AN0618.2 hypothetical protein	0.33911582827568054
+523	lcm:102352839 HPGD; hydroxyprostaglandin dehydrogenase 15-(NAD)	0.3383704423904419
+524	sli:Slin_1247 mannitol dehydrogenase domain-containing protein	0.33708301186561584
+525	pset:THL1_1976 UDP-N-acetyl-D-glucosamine dehydrogenase	0.33646631240844727
+526	mthr:MSTHT_1760 Diaminohydroxyphosphoribosylaminopyrimidine deaminase	0.3359184265136719
+527	rpy:Y013_13845 3-alpha-hydroxysteroid dehydrogenase	0.33590593934059143
+528	msao:MYCSP_20490 aryl-alcohol dehydrogenase	0.33520591259002686
+529	cmt:CCM_05336 riboflavin biosynthesis protein Rib7	0.33448535203933716
+530	lvn:BWR22_12290 mannitol dehydrogenase	0.33383792638778687
+531	nnu:104611101 probable NAD(P)H-dependent oxidoreductase 2	0.3337390422821045
+532	lpd:AYR62_00725 hypothetical protein	0.333194375038147
+533	mem:Memar_2026 2,5-diamino-6-(5-phosphoribosylamino)pyrimidin-4(3H)-one reductase	0.33305829763412476
+534	ssck:SPSK_04249 mannitol 2-dehydrogenase	0.332768052816391
+535	pde:Pden_4177 Mannitol dehydrogenase, C-terminal domain	0.3316602408885956
+536	psyy:DLE54_05410 D-lactate dehydrogenase	0.3309977650642395
+537	kba:A0U89_09260 D-lactate dehydrogenase	0.3304298222064972
+538	salv:SALWKB2_0692 3-hydroxypropionate dehydrogenase	0.33023229241371155
+539	llf:BCR17_07245 D-lactate dehydrogenase	0.3290708065032959
+540	cten:CANTEDRAFT_95294 NAD(P)-binding protein	0.32884037494659424
+541	chry:CEY12_17900 alcohol dehydrogenase	0.32805314660072327
+542	slq:M495_06275 D-lactate dehydrogenase	0.3279188275337219
+543	pnu:Pnuc_0373 short-chain dehydrogenase/reductase SDR	0.32706108689308167
+544	svi:Svir_28790 Zn-dependent alcohol dehydrogenase, class III	0.3248617947101593
+545	aak:AA2016_0204 Mannitol dehydrogenase domain protein	0.32465168833732605
+546	mars:A8C75_01530 mannitol dehydrogenase	0.3234148621559143
+547	ebt:EBL_c21590 ydfG; NADP-dependent l-serine/l-allo-threonine dehydrogenase Ydfg	0.3231993615627289
+548	bgj:AWC36_07615 NAD(P)-dependent oxidoreductase	0.32317590713500977
+549	pcz:PCL1606_16700 succinylglutamate-semialdehyde dehydrogenase	0.32213279604911804
+550	psta:BGK56_03260 NADP-dependent 3-hydroxy acid dehydrogenase	0.32210633158683777
+551	hhsr:HSR6_2060 aryl-alcohol dehydrogenase	0.32186469435691833
+552	hbo:Hbor_18920 2,5-diamino-6-(5-phosphoribosylamino)pyrimidin-4(3H)-one reductase	0.32184433937072754
+553	cub:BJK06_12510 mannitol dehydrogenase	0.3213142156600952
+554	para:BTO02_15070 NAD-dependent dehydratase	0.3212103247642517
+555	bfa:Bfae_05140 D-lactate dehydrogenase	0.3210676610469818
+556	mhz:Metho_2197 2,5-diamino-6-hydroxy-4-(5-phosphoribosylamino)pyrimidine 1'-reductase	0.319671630859375
+557	afs:AFR_25800 mannitol-1-phosphate/altronate dehydrogenase	0.31959331035614014
+558	nid:NPIRD3C_0441 ribD; 2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase	0.31946101784706116
+559	cdu:CD36_11990 5-amino-6-(5-phosphoribosylamino)uracil reductase, putative	0.3189489543437958
+560	csy:CENSYa_0993 UDP-N-acetyl-D-mannosaminuronate dehydrogenase	0.3182346224784851
+561	mth:MTH_235 riboflavin-specific deaminase	0.3171777129173279
+562	sulz:C1J03_06240 NAD(P)-dependent oxidoreductase	0.3162582218647003
+563	nct:NMSP_1553 arfC; 2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase	0.31610560417175293
+564	camu:CA2015_0039 Putative mannitol permease	0.3144659101963043
+565	mby:MSBRM_3306 Diaminohydroxyphosphoribosylaminopyrimidine deaminase	0.3143951892852783
+566	cuh:BJN34_30775 NAD-dependent dehydratase	0.3136034905910492
+567	mmac:MSMAC_0498 5-amino-6-(5-phosphoribosylamino)uracil reductase	0.3129812180995941
+568	agc:BSY240_2208 3-beta hydroxysteroid dehydrogenase/isomerase family protein	0.31249865889549255
+569	suli:C1J05_08125 NAD(P)-dependent oxidoreductase	0.31237906217575073
+570	rua:D1823_12900 NAD(P)-dependent oxidoreductase	0.31137779355049133
+571	sclf:BB341_22555 NAD-dependent dehydratase	0.31121495366096497
+572	ead:OV14_3995 mannitol dehydrogenase	0.31098222732543945
+573	din:Selin_2012 carbon-monoxide dehydrogenase, catalytic subunit	0.3095279335975647
+574	cgi:CGB_A7040W hypothetical protein	0.3094753623008728
+575	mhi:Mhar_1003 Diaminohydroxyphosphoribosylaminopyrimidine reductase	0.3091239929199219
+576	apn:Asphe3_10290 mannitol-1-phosphate/altronate dehydrogenase	0.3080216348171234
+577	pgp:CUJ91_22175 D-lactate dehydrogenase	0.3060556650161743
+578	obt:OPIT5_19085 mannitol 2-dehydrogenase	0.3058629333972931
+579	sld:T261_6270 Uronate dehydrogenase	0.30498483777046204
+580	prh:LT40_06460 NAD-dependent dehydratase	0.30388346314430237
+581	masy:DPH57_11485 NADP-dependent 3-hydroxy acid dehydrogenase	0.30102860927581787
+582	ack:C380_19535 NAD-dependent epimerase/dehydratase	0.3006543815135956
+583	aman:B6F84_07245 2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	0.3003722131252289
+584	bum:AXG89_15835 NAD-dependent dehydratase	0.29740288853645325
+585	mhae:F382_00070 D-lactate dehydrogenase	0.2969488799571991
+586	mars:A8C75_14700 mannitol dehydrogenase	0.29663795232772827
+587	hak:KO116_00407 Aryl-alcohol dehydrogenase	0.29511570930480957
+588	svl:Strvi_6981 NAD-dependent epimerase/dehydratase	0.29405394196510315
+589	arp:NIES39_D07050 NAD-dependent epimerase/dehydratase	0.29392746090888977
+590	pkb:B4V02_08105 NAD-dependent epimerase	0.29270923137664795
+591	ecv:APECO1_815 thrL; succinylglutamic semialdehyde dehydrogenase	0.2915011942386627
+592	ngl:RG1141_PA10410 NAD dependent epimerase/dehydratase family protein	0.2911011278629303
+593	csab:103216001 ALDH3B1; aldehyde dehydrogenase 3 family member B1	0.2899937629699707
+594	bfz:BAU07_10795 epimerase	0.28918933868408203
+595	abri:DFR85_07680 2,5-diamino-6-(ribosylamino)-4(3H)-pyrimidinone 5'-phosphate reductase	0.28912463784217834
+596	boc:BG90_1403 3-beta hydroxysteroid dehydrogenase/isomerase family protein	0.28878217935562134
+597	gqu:AWC35_23495 NAD(P)-dependent oxidoreductase	0.2886398136615753
+598	pfv:Psefu_0986 NAD-dependent epimerase/dehydratase	0.2875955402851105
+599	mtim:DIR46_25260 NAD-dependent dehydratase	0.2874721586704254
+600	sfa:Sfla_4918 NAD-dependent epimerase/dehydratase	0.2873874306678772
+601	sbu:SpiBuddy_3010 Tagaturonate reductase	0.2871312201023102
+602	scm:SCHCODRAFT_71199 hypothetical protein	0.2870086133480072
+603	top:TOPB45_0398 Carbon-monoxide dehydrogenase (acceptor)	0.2864355444908142
+604	mif:Metin_1228 CO dehydrogenase/acetyl-CoA synthase complex, beta subunit	0.283933162689209
+605	svt:SVTN_09130 NAD-dependent dehydratase	0.2798389196395874
+606	pcs:Pc12g01420 Pc12g01420	0.27912744879722595
+607	tom:BWR18_12245 3-beta hydroxysteroid dehydrogenase	0.278498113155365
+608	scx:AS200_33700 NAD-dependent dehydratase	0.2782106101512909
+609	bvv:BHK69_13220 hypothetical protein	0.27690985798835754
+610	pavl:BKM03_06135 NAD(P)-dependent oxidoreductase	0.2767300605773926
+611	mpd:MCP_1048 2,5-diamino-6-hydroxy-4-(5-phosphoribosylamino) pyrimidine reductase	0.2737480401992798
+612	mpl:Mpal_2094 bifunctional deaminase-reductase domain protein	0.27057498693466187
+613	mpr:MPER_02931 hypothetical protein	0.266871839761734
+614	pmy:Pmen_3299 NAD-dependent epimerase/dehydratase	0.26660701632499695
+615	cten:CANTEDRAFT_123893 hypothetical protein	0.2656117081642151
+616	ssx:SACTE_1326 NAD-dependent epimerase/dehydratase	0.26518648862838745
+617	lja:Lj5g3v0529180.1 Lj5g3v0529180.1; -	0.2640913128852844
+618	ncv:NCAV_0047 2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase	0.25933384895324707
+619	amyc:CU254_22215 NAD(P)-dependent oxidoreductase	0.25921428203582764
+620	pda:103700145 non-functional NADPH-dependent codeinone reductase 2-like	0.2534036934375763
+621	mhu:Mhun_0807 5-amino-6-(5-phosphoribosylamino)uracil reductase	0.24965918064117432
+622	pmur:107296165 aldehyde dehydrogenase family 3 member B1-like	0.23725450038909912
+623	msw:MSSIT_3040 CO dehydrogenase/acetyl-CoA synthase subunit alpha, CO dehydrogenase subcomplex	0.21850600838661194
+624	tmo:TMO_1695 ydfG; short-chain dehydrogenase/reductase SDR	0.2154555767774582
+625	slb:AWJ20_2229 oxidoreductase	0.21476534008979797
