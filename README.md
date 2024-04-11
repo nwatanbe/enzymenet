@@ -38,7 +38,9 @@ Downloaded_directory_path should be given an arbitrary directory path containing
 The software typically takes several minutes to install.  
 
 EnzymeNet model (model.tar.gz) can be downloaded from the following link:  
-https://drive.google.com/drive/folders/1mk_SFD7fRDtZTT_mmKRq1Kwa1wg9lnCV  
+https://drive.google.com/drive/folders/1mk_SFD7fRDtZTT_mmKRq1Kwa1wg9lnCV 
+or
+https://drive.google.com/drive/folders/1DkBpl_0GWlmILFJXksyOa974HGsx2eic
   
 The "model.tar.gz" is decompressed using the following command:  
 tar -zxvf model.tar.gz  
