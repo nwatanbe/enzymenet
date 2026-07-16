@@ -84,7 +84,7 @@ This software is released under the MIT License, according to LICENSE.txt.
 # 6. Related publications
 1. Naoki Watanabe., Masaki Yamamoto., Masahiro Murata., Yuki Kuriya., and Michihiro Araki.  
    EnzymeNet: Residual Neural Networks model for Enzyme Commission number prediction.  
-   Bioinformatics Advances, 2025.  
+   Bioinformatics Advances, 2023.  
    DOI: 10.1093/bioadv/vbad173   
 3. Naoki Watanabe., Shuhei Noda., et al.  
    Enzyme Analyzer: A web server for efficient search of candidate enzyme sequences in bioproduction of functional compounds.  
