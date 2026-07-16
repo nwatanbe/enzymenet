@@ -40,6 +40,7 @@ tar -zxvf model.tar.gz
 The decompressed directory is added to /Downloaded_directory_path/enzymenet/  
   
 # 3.  Demo
+# EC number prediction
 The directory including in EnzymeNet script is changed into:  
 cd /Downloaded_directory_path/enzymenet/script/ 
 Downloaded_directory_path should be given an arbitrary directory path containing EnzymeNet.  
@@ -47,7 +48,7 @@ Downloaded_directory_path should be given an arbitrary directory path containing
 EnzymeNet is run for prediction of test samples (/Downloaded_directory_path/enzymenet/data/select_samples_for_ec_predict.fasta), by the following command:  
 ./test_ec.sh 
 
-The following results are output into"/Downloaded_directory_path/enzymenet/result/":  
+The following results are output into"/Downloaded_directory_path/enzymenet/result/ec_number/EC_predict_final_result.tsv":  
 ●	Prediction results of EC number 1st digit and score  
 ●	Prediction results of complete EC number and score  
  
