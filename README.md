@@ -45,8 +45,9 @@ cd /Downloaded_directory_path/enzymenet/script/
 Downloaded_directory_path should be given an arbitrary directory path containing EnzymeNet.  
  
 ## Enzyme function prediction
-EnzymeNet is run for prediction of test samples (/Downloaded_directory_path/enzymenet/data/select_samples_for_ec_predict.fasta), by the following command:  
-./test_ec.sh 
+Sample test file: /Downloaded_directory_path/enzymenet/data/select_samples_for_ec_predict.fasta  
+EnzymeNet is run for prediction of test samples by the following command:  
+./test_ec.sh  
 
 The following results are output into"/Downloaded_directory_path/enzymenet/result/ec_number/EC_predict_final_result.tsv":  
 ●	Prediction results of Enzyme Commission (EC) number 1st digit and score  
@@ -56,14 +57,25 @@ The demo run time is several minutes.
 Up to 4,000 sequences are predicted in about 10 minutes at one time. 
 
 ## Candidate enzyme prioritization
+Sample search file: /Downloaded_directory_path/enzymenet/data/select_samples_for_vec_search.fasta  
+Sample reference file: /Downloaded_directory_path/enzymenet/data/select_samples_for_vec_ref.fasta  
 EnzymeNet is run for selection of enzyme candidates, by the following command:  
-Search file sample: /Downloaded_directory_path/enzymenet/data/select_samples_for_ec_predict.fasta)  
-./test_vv.sh 
-# 4.  Instructions for use
-When you want to change input file, you should change "select_samples_for_ec_predict.fasta" into "new file name" in "/Downloaded_directory_path/enzymenet/script/test_ec.sh".  
-You have to include FASTA file in "/Downloaded_directory_path/enzymenet/data/" 
-Run time depends on the dataset size. 
+./test_vv.sh  
 
+The following results are output into"/Downloaded_directory_path/enzymenet/result/vectorize_visualize/":  
+●	Enzyme candidate ranking and similarity score results  
+●	Figure showing enzyme candidates and reference data  
+  
+# 4.  Instructions for use
+## Enzyme function prediction
+When you want to change input file, you should change it into new file name in "/Downloaded_directory_path/enzymenet/script/test_ec.sh".  
+You have to include FASTA file in "/Downloaded_directory_path/enzymenet/data/" 
+
+## Candidate enzyme prioritization
+When you want to change 2 input files, you should change them into new file names in "/Downloaded_directory_path/enzymenet/script/test_vv.sh".  
+You have to include 2 FASTA files in "/Downloaded_directory_path/enzymenet/data/" 
+
+Run time depends on the dataset size.  
 # 5.  License
 This software is released under the MIT License, according to LICENSE.txt. 
  
