@@ -1,12 +1,12 @@
-# EnzymeNet: Enzyme Comission (EC) number prediction
-Naoki Watanabe, Masaki Yamamoto, Masahiro Murata, Yuki Kuriya, and Michihiro Araki
-
+# EnzymeNet 
+Source code for enzyme function prediction and candidate enzyme prioritization. 
 
 1.  System requirements
 2.  Installation guide
 3.  Demo 
 4.  Instructions for use
 5.  License
+6.  Related publications
 
 # 1.  System requirements
 Any Linux operating system with Anaconda is recommended for use.  
@@ -16,20 +16,12 @@ python version > 3.7.4
 No non-standard hardware is required.  
   
 # 2.  Installation guide
-Anaconda can be downloaded from the following link:  
-https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh  
-
-Anaconda can be installed using the following command:  
-./Downloaded_directory_path/Anaconda3-2019.10-Linux-x86_64.sh  
-
-"Downloaded_directory_path" should be given an arbitrary directory path containing Anaconda.  
-
 EnzymeNet is downloaded from the following link:  
 https://github.com/nwatanbe/enzymenet 
  
 Conda environment is built using the following commands:  
 conda create –n enzyme python=3.7.4  
-conda activate enzyme  
+conda activate enzymenet  
 
 Other packages areinstalled as described in "/Downloaded_directory_path/enzymenet/env/requirements.txt"  
 pip install -r /Downloaded_directory_path/enzymenet/env/requirements.txt  
@@ -69,3 +61,13 @@ Run time depends on the dataset size.
 
 # 5.  License
 This software is released under the MIT License, according to LICENSE.txt. 
+ 
+# 6. Related publications
+1. Naoki Watanabe., Masaki Yamamoto., Masahiro Murata., Yuki Kuriya., and Michihiro Araki. 
+   EnzymeNet: Residual Neural Networks model for Enzyme Commission number prediction. 
+   Bioinformatics Advances, 2025.
+2. Naoki Watanabe., Shuhei Noda., et al.
+   Enzyme Analyzer: A web server for efficient search of candidate enzyme sequences in bioproduction of functional compounds.
+   Manuscript in preparation.
+DOI: 10.1093/bioadv/vbad173
+
