@@ -40,7 +40,7 @@ tar -zxvf model.tar.gz
 The decompressed directory is added to /Downloaded_directory_path/enzymenet/  
   
 # 3.  Demo
-# EC number prediction
+## EC number prediction
 The directory including in EnzymeNet script is changed into:  
 cd /Downloaded_directory_path/enzymenet/script/ 
 Downloaded_directory_path should be given an arbitrary directory path containing EnzymeNet.  
