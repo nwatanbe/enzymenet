@@ -20,7 +20,7 @@ EnzymeNet is downloaded from the following link:
 https://github.com/nwatanbe/enzymenet 
  
 Conda environment is built using the following commands:  
-conda create –n enzyme python=3.7.4  
+conda create –n enzymenet python=3.7.4  
 conda activate enzymenet  
 
 Other packages areinstalled as described in "/Downloaded_directory_path/enzymenet/env/requirements.txt"  
@@ -48,7 +48,7 @@ EnzymeNet is run for prediction of test samples (/Downloaded_directory_path/enzy
 ./test_ec.sh 
 
 The following results are output into"/Downloaded_directory_path/enzymenet/result/":  
-●	Prediction results of EC number 1~s~t digit and score  
+●	Prediction results of EC number 1st digit and score  
 ●	Prediction results of complete EC number and score  
  
 The demo run time is several minutes.  
